@@ -1,7 +1,15 @@
 p{
-color:  blue;
+color:blue;
 font-family:fantasy;
 }
 body{
-  background-color: pink
+  background-color: yellow
+}
+
+li#first{
+background-color:lime;
+}
+
+li.lia{
+background-color:red;
 }
